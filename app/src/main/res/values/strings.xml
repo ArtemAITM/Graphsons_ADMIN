@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Graphsons_ADMIN</string>
+    <string name="month">Статистика за месяц</string>
+    <string name="year">Статистика за год</string>
+    <string name="day">Статистика за день</string>
+    <string name="hour">Статистика за час</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/ItemYear"
+            android:title="@string/year" />
+        <item
+            android:id="@+id/ItemMonth"
+            android:title="@string/month" />
+        <item
+            android:id="@+id/ItemDay"
+            android:title="@string/day" />
+        <item
+            android:id="@+id/ItemHour"
+            android:title="@string/hour" />
+    </group>
+</menu>
